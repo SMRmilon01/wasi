@@ -51,7 +51,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;95mTool By Hacker SMR.MILON\n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;94mTool By Hacker SMR.MILON\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
@@ -77,7 +77,7 @@ def tlogin():
         time.sleep(1)
         tlogin()
     passw = raw_input('[\xf0\x9f\x94\x90]  \x1b[1;94mTOOL PASSWORD: ')
-    if passw == 'wasii':
+    if passw == 'milon':
         os.system('clear')
         print banner
         print '[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
