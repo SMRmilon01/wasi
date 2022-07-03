@@ -51,12 +51,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;93mTool By Hacker ███╗░░░███╗██╗██╗░░░░░░█████╗░███╗░░██╗
-████╗░████║██║██║░░░░░██╔══██╗████╗░██║
-██╔████╔██║██║██║░░░░░██║░░██║██╔██╗██║
-██║╚██╔╝██║██║██║░░░░░██║░░██║██║╚████║
-██║░╚═╝░██║██║███████╗╚█████╔╝██║░╚███║
-╚═╝░░░░░╚═╝╚═╝╚══════╝░╚════╝░╚═╝░░╚══╝\n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;93mTool By Hacker SMR MILON\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
