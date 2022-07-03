@@ -1,6 +1,6 @@
-# Tool : Wasii ( Facebook cloning tool)
-# Author : Waseem Akram ( hackerwasii )
-# github : https://github.com/evildevill
+# Tool : SMR ( Facebook cloning tool)
+# Author : SMR MILON ( hackerwasii )
+# github : https://github.com/SMRmilon01 
 # Note : we are not responsible for any misuse
 try:
     import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, mechanize, requests
@@ -51,7 +51,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;95mTool By Hacker wasii\n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;95mTool By Hacker SMR.MILON\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
@@ -154,7 +154,7 @@ def login():
             st.close()
             print '\n[\xe2\x9c\x93] \x1b[1;91mLogged In Successfully.'
             time.sleep(1)
-            os.system('xdg-open https://www.youtube.com/channe/HackerWasii')
+            os.system('xdg-open https://www.youtube.com/channe/SMR.MILON')
             os.system('clear')
             os.system('python2 .wasii.py')
         elif 'www.facebook.com' in z['error_msg']:
