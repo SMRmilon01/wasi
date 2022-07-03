@@ -1,6 +1,8 @@
-# Wasii_clone
+# Milon_clone
 
-## username & password
+$ cd wasi
+
+$ python2 wasi.py
 
 ## username
 ```
