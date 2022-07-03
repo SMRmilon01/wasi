@@ -2,7 +2,7 @@
 
 $ cd wasi
 
-$ python2 wasi.py
+$ python2 milon.py
 
 ## username
 ```
@@ -10,5 +10,5 @@ hacker
 ```
 ## password
 ```
-wasii
+milon
 ```
